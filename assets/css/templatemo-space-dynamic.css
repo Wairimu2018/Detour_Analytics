@@ -1625,7 +1625,7 @@ footer {
               }
 
                   #newsletter #address li div {
-                      color: #181717;
+                      color: #cecece;
                       font-size: 14px;
                       width: 80%;
                       text-align: left;
@@ -1642,12 +1642,12 @@ footer {
 #owner {
   text-align: center;
   padding: 20px 0 0px;
-  color: #1a1919;
+  color: #181818;
   font-family: lato;
 }
 
   #owner a {
-      color:#0e0d0d;        
+      color:#131212;        
   }
 
 /* iPads to Smartphone for Common Elements ----------- */  
@@ -1672,8 +1672,8 @@ footer {
   }
    
   .footer-toggle,.footer-toggle::after {
-      background: #1b1b1b;
-      height: 3px;
+      background: #fff;
+      height: 2px;
       width: 15px;
       position: absolute;
       display: block;
